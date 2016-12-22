@@ -1,5 +1,5 @@
 {
-  "name": "dat.guy",
+  "name": "dat.gui",
   "version": "0.6.2",
   "main": "src/index.js",
   "scripts": {
